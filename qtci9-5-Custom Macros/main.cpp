@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include <QDebug>
 
-//Custom macro
+//9-5.Custom macro
 #define add(a,b) a+b
 
 int main(int argc, char *argv[])
